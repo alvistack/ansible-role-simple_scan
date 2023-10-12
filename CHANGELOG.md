@@ -1,7 +1,10 @@
 # Ansible Role for Document Scanner
 
-## 8.5.0 - TBC
+## 9.0.0 - TBC
 
+## 8.5.0 - 2023-10-12
+
+-   Support Ansible community package 8.5.0
 -   Ininitial release for Ansible 2.10 or higher
 -   This role was designed for:
     -   Ubuntu 20.04, 22.04, 23.04, 23.10
