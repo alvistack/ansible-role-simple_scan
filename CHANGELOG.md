@@ -1,4 +1,4 @@
-# Ansible Role for Document Scanner
+# Ansible Role for Document Scanner with Flatpak
 
 ## 13.6.0 - TBC
 

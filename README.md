@@ -1,13 +1,13 @@
-# Ansible Role for Document Scanner
+# Ansible Role for Document Scanner with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-simple_scan/master)](https://gitlab.com/alvistack/ansible-role-simple_scan/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-simple_scan.svg)](https://github.com/alvistack/ansible-role-simple_scan/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-simple_scan.svg)](https://github.com/alvistack/ansible-role-simple_scan/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.simple_scan-blue.svg)](https://galaxy.ansible.com/alvistack/simple_scan)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_simple_scan/master)](https://gitlab.com/alvistack/ansible-role-flatpak_simple_scan/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_simple_scan.svg)](https://github.com/alvistack/ansible-role-flatpak_simple_scan/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_simple_scan.svg)](https://github.com/alvistack/ansible-role-flatpak_simple_scan/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_simple_scan-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_simple_scan)
 
-Ansible Role for Document Scanner Installation.
+Ansible Role for Document Scanner with Flatpak.
 
 ## Requirements
 
